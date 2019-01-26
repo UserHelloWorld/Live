@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MainTabbarControllerView.swift
 //  Live
 //
 //  Created by apple on 26/12/18.
@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainTabbarControllerView: UITabBarController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
+    
 
 
 }
-
